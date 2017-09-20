@@ -1,2 +1,4 @@
 myvenv*
 *log
+db.sqlite3
+*pyc
